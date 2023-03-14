@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Dr. Jesús Muciño Raymundo - Trabajos de Divulgación</title>
+  </head>
+
+  <body>
+  <div class="container">
+  <h2 class="my-4">Trabajos de Divulgación</h2>
+
+     <table class="table">
+        <tbody>    
+        <tr>
+            <td><strong><a href="T-D-7.pdf">Modelos matemáticos elementales; subiendo y bajando</a></strong><br>
+Coautor: Alvaro Alvarez-Parrilla, Boletín de la UNAM Campus Morelia, No.64 Nov/Dic. (2016), 1–3.
+            </td>
+        </tr>
+        <tr>
+            <td><strong><a href="T-D-6.pdf">¿Está usted de broma Sr. Feynman?</a></strong><br>
+Boletín de la UNAM Campus Morelia, No. 41, Enero/Feb. (2013), 8.
+            </td>
+        </tr>
+         <tr>
+            <td><strong><a href="T-D-5.pdf">El caos en modelos matemáticos</a></strong><br>
+Coautor: Alvaro Alvarez-Parrilla, Boletín de la UNAM Campus Morelia, No. 23, Julio/Dic. (2009), 1–3.
+            </td>
+        </tr>
+        <tr>
+            <td><strong><a href="T-D-2.pdf">Diez años de la Unidad Morelia del Instituto de Matemáticas</a></strong><br>
+Carta Informativa de la SMM (2000) 8–9.
+            </td>
+        </tr>
+        <tr>
+            <td><strong><a href="T-D-1.pdf">Sistemas dinámicos a la salida del cine</a></strong><br>
+Coautor: J. Luis López. Carta Informativa de la SMM, Marzo (1998), 1–2.
+            </td>
+        </tr>
+
+
+        </tbody>
+    </table>
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
